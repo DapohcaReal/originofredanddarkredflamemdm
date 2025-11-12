@@ -31,11 +31,11 @@ body .fire .flames .flame {
 }
 
 body .fire .flames .flame:nth-child(2n + 1) {
-  animation: flameodd 1.5s ease-in infinite;
+  animation: flameodd 1.25s ease-in infinite;
 }
 
 body .fire .flames .flame:nth-child(2n) {
-  animation: flameeven 1.5s ease-in infinite;
+  animation: flameeven 1.25s ease-in infinite;
 }
 
 body .fire .flames .flame:nth-child(1) {
